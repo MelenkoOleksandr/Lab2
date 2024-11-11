@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Lab2DOTNET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{921AAD03-06CF-4C89-B504-58BDD1D66DA0}|LabDBEntity\\LabDBEntity.csproj|c:\\users\\user\\desktop\\lab2dotnet\\labdbentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{921AAD03-06CF-4C89-B504-58BDD1D66DA0}|LabDBEntity\\LabDBEntity.csproj|solutionrelative:labdbentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93607C1-EECF-4FCC-9E16-809A5E06149C}|LabDBEntity.DAL\\LabDBEntity.DAL.csproj|c:\\users\\user\\desktop\\lab2dotnet\\labdbentity.dal\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B93607C1-EECF-4FCC-9E16-809A5E06149C}|LabDBEntity.DAL\\LabDBEntity.DAL.csproj|solutionrelative:labdbentity.dal\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{921AAD03-06CF-4C89-B504-58BDD1D66DA0}|LabDBEntity\\LabDBEntity.csproj|c:\\users\\user\\desktop\\lab2dotnet\\labdbentity\\labdbentity.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{921AAD03-06CF-4C89-B504-58BDD1D66DA0}|LabDBEntity\\LabDBEntity.csproj|solutionrelative:labdbentity\\labdbentity.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93607C1-EECF-4FCC-9E16-809A5E06149C}|LabDBEntity.DAL\\LabDBEntity.DAL.csproj|c:\\users\\user\\desktop\\lab2dotnet\\labdbentity.dal\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B93607C1-EECF-4FCC-9E16-809A5E06149C}|LabDBEntity.DAL\\LabDBEntity.DAL.csproj|solutionrelative:labdbentity.dal\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93607C1-EECF-4FCC-9E16-809A5E06149C}|LabDBEntity.DAL\\LabDBEntity.DAL.csproj|c:\\users\\user\\desktop\\lab2dotnet\\labdbentity.dal\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B93607C1-EECF-4FCC-9E16-809A5E06149C}|LabDBEntity.DAL\\LabDBEntity.DAL.csproj|solutionrelative:labdbentity.dal\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93607C1-EECF-4FCC-9E16-809A5E06149C}|LabDBEntity.DAL\\LabDBEntity.DAL.csproj|c:\\users\\user\\desktop\\lab2dotnet\\labdbentity.dal\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B93607C1-EECF-4FCC-9E16-809A5E06149C}|LabDBEntity.DAL\\LabDBEntity.DAL.csproj|solutionrelative:labdbentity.dal\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93607C1-EECF-4FCC-9E16-809A5E06149C}|LabDBEntity.DAL\\LabDBEntity.DAL.csproj|c:\\users\\user\\desktop\\lab2dotnet\\labdbentity.dal\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B93607C1-EECF-4FCC-9E16-809A5E06149C}|LabDBEntity.DAL\\LabDBEntity.DAL.csproj|solutionrelative:labdbentity.dal\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93607C1-EECF-4FCC-9E16-809A5E06149C}|LabDBEntity.DAL\\LabDBEntity.DAL.csproj|c:\\users\\user\\desktop\\lab2dotnet\\labdbentity.dal\\teachercourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B93607C1-EECF-4FCC-9E16-809A5E06149C}|LabDBEntity.DAL\\LabDBEntity.DAL.csproj|solutionrelative:labdbentity.dal\\teachercourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LabDBEntity.http",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Lab2DOTNET\\LabDBEntity\\LabDBEntity.http",
+              "RelativeDocumentMoniker": "LabDBEntity\\LabDBEntity.http",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Lab2DOTNET\\LabDBEntity\\LabDBEntity.http",
+              "RelativeToolTip": "LabDBEntity\\LabDBEntity.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-11T10:36:25.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Lab2DOTNET\\LabDBEntity\\Program.cs",
+              "RelativeDocumentMoniker": "LabDBEntity\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Lab2DOTNET\\LabDBEntity\\Program.cs",
+              "RelativeToolTip": "LabDBEntity\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:36:10.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Lab2DOTNET\\LabDBEntity.DAL\\DataSeeder.cs",
+              "RelativeDocumentMoniker": "LabDBEntity.DAL\\DataSeeder.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Lab2DOTNET\\LabDBEntity.DAL\\DataSeeder.cs",
+              "RelativeToolTip": "LabDBEntity.DAL\\DataSeeder.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:36:06.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TeacherCourse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Lab2DOTNET\\LabDBEntity.DAL\\TeacherCourse.cs",
+              "RelativeDocumentMoniker": "LabDBEntity.DAL\\TeacherCourse.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Lab2DOTNET\\LabDBEntity.DAL\\TeacherCourse.cs",
+              "RelativeToolTip": "LabDBEntity.DAL\\TeacherCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:36:03.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Lab2DOTNET\\LabDBEntity.DAL\\Teacher.cs",
+              "RelativeDocumentMoniker": "LabDBEntity.DAL\\Teacher.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Lab2DOTNET\\LabDBEntity.DAL\\Teacher.cs",
+              "RelativeToolTip": "LabDBEntity.DAL\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:36:02.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Lab2DOTNET\\LabDBEntity.DAL\\Course.cs",
+              "RelativeDocumentMoniker": "LabDBEntity.DAL\\Course.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Lab2DOTNET\\LabDBEntity.DAL\\Course.cs",
+              "RelativeToolTip": "LabDBEntity.DAL\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:35:58.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentCourse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Lab2DOTNET\\LabDBEntity.DAL\\StudentCourse.cs",
+              "RelativeDocumentMoniker": "LabDBEntity.DAL\\StudentCourse.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Lab2DOTNET\\LabDBEntity.DAL\\StudentCourse.cs",
+              "RelativeToolTip": "LabDBEntity.DAL\\StudentCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:35:55.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Lab2DOTNET\\LabDBEntity.DAL\\Student.cs",
+              "RelativeDocumentMoniker": "LabDBEntity.DAL\\Student.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Lab2DOTNET\\LabDBEntity.DAL\\Student.cs",
+              "RelativeToolTip": "LabDBEntity.DAL\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:35:54.437Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
